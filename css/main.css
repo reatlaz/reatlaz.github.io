@@ -60,8 +60,7 @@ html, body {
   opacity: 1; }
 
 .nav-item + .nav-item {
-  margin-left: 1rem;
-  margin-right: 1rem; }
+  margin-left: 1rem; }
 
 .cover {
   height: 500px; }
